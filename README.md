@@ -34,7 +34,7 @@ Authors: Heng Liang, Yujin Huang, Changhong Zhao
 (b) The OPF objective values achieved by the data-driven control.
 
 # Citation
-If you find our code helpful, please cite our paper!
+If you find our code helpful, please cite our paper.
 
 ````
 @article{liang2025data,
