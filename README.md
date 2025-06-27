@@ -9,10 +9,11 @@ Authors: Heng Liang, Yujin Huang, Changhong Zhao
 
 
 # How to train
->python main.py --env_name case37 --train_flag True --trail_name alpha01 <br />
+>python main.py --env_name case37 --train_flag True --trial_name alpha01 <br />
 
 # How to test
->python test.py --env_name case37 --train_flag False --trail_name alpha01 --lineargrad True <br />
+>python test.py --env_name case37 --train_flag False --trial_name alpha01 --lineargrad True <br />
+#A pretrained model is provided in "model_pth" (use the default trial_name)
 
 # Results on real-world data
 ## The voltage profiles
@@ -24,7 +25,7 @@ Authors: Heng Liang, Yujin Huang, Changhong Zhao
 
 (b) The voltage profiles achieved by the data-driven control.
 
-## The OPF objective and tracking errors
+## The OPF objectives and tracking errors
 <img src="./figures/test_figures/testing_tracking_PD.png" height="210px" width="400px" >
 
 (a) The OPF objective values achieved by primal-dual control.
