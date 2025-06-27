@@ -13,7 +13,7 @@ Authors: Heng Liang, Yujin Huang, Changhong Zhao
 
 # How to test
 >python test.py --env_name case37 --train_flag False --trial_name alpha01 --lineargrad True <br />
-#A pretrained model is provided in "model_pth" (use the default trial_name)
+#A pretrained model is provided in "model_pth" (use the default trial_name).
 
 # Results on real-world data
 ## The voltage profiles
