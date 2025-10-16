@@ -39,9 +39,10 @@ If you find our code helpful, please cite our paper.
 
 ````
 @article{liang2025data,
-  title={A Data-Driven Real-Time Optimal Power Flow Algorithm Using Local Feedback},
+  title={A Data-Driven Real-Time Optimal Power Flow Algorithm Using Local Feedback in Distribution Networks},
   author={Liang, Heng and Huang, Yujin and Zhao, Changhong},
-  journal={arXiv preprint arXiv:2502.15306},
-  year={2025}
+  journal={IEEE Transactions on Power Systems},
+  year={2025},
+  publisher={IEEE}
 }
 ````
